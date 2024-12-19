@@ -1,0 +1,9 @@
+@media (max-width: 38rem) {
+  html {
+    font-size: 100%;
+  }
+  .container {
+    max-width: 90%;
+    border-radius: 10px;
+  }
+}
